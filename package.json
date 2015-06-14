@@ -1,0 +1,19 @@
+{
+  "name": "testing-angular",
+  "version": "1.0.0",
+  "description": "example angularjs testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.config.js"
+  },
+  "author": "xier",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.3.16",
+    "angular-mocks": "^1.3.16",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.36",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-jasmine": "^0.3.5"
+  }
+}
